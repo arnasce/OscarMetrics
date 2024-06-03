@@ -2,6 +2,8 @@
 
 OscarMetrics is a website that provides comprehensive information on Oscar-winning movies, from the inaugural ceremony in 1927 to the most recent ceremony in 2024. Registered movie buffs can rate, comment and add movies to lists as well as receive recommendations based on collaborative filtering.
 
+![screenshot_1](https://github.com/arnasce/OscarMetrics/assets/63949706/67c8fdbb-160c-4c5d-aff9-77cb37a77024)
+
 ## Instructions
 1. Install Python dependencies:
     ```
