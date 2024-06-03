@@ -1,0 +1,127 @@
+.img-poster {
+    width: 100%;
+    height: auto;
+    max-width: 342px;
+    max-height: 513px;
+    object-fit: cover;
+}
+
+a:hover {
+    color: rgb(124, 124, 124);
+    text-decoration: underline;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+}
+
+.page-link {
+    color: black;
+}
+
+.pagination {
+    --bs-pagination-hover-color: rgb(124, 124, 124);
+    --bs-pagination-focus-color: rgb(124, 124, 124);
+}
+
+.search-bar {
+    width: 75%;
+    padding: 0.5rem;
+}
+
+.search-bar-alert {
+    width: 75%;
+    padding: 0.5rem;
+}
+
+.ul {
+    padding-left: none;
+}
+
+.placeholder {
+    border-radius: 0.75rem;
+}
+
+.oscar-award-image {
+    width: 75%;
+    min-width: 35px;
+    height: auto;
+}
+
+.tagline {
+    color: rgb(125, 125, 125);
+    font-style: italic;
+}
+  
+.cards-actors {
+    display: grid;
+    grid-auto-columns: 100%;
+    grid-column-gap: 10px;
+    grid-auto-flow: column;
+    padding-bottom: 25px;
+    list-style: none;   
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+.card-actor {
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    scroll-snap-align: start;
+    transition: all 0.2s;
+}
+
+.cards-actors::-webkit-scrollbar {
+    height: 10px;
+}
+
+.cards-actors::-webkit-scrollbar-thumb,
+.cards-actors::-webkit-scrollbar-track {
+    border-radius: 92px;
+}
+
+.cards-actors::-webkit-scrollbar-thumb {
+    background: rgb(220,220,220);
+}
+
+.cards-actors::-webkit-scrollbar-track {
+    background: rgb(237, 242, 244);
+}
+
+.cards-actors {
+    grid-auto-columns: calc(28% - 35px);
+    grid-column-gap: 10px;
+}
+
+.with-box-shadow {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+    border: none !important;
+}
+
+.movie-tab-button {
+    border: none;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.movie-tab-button.active {
+    border-bottom: 3px solid black;
+}
+
+.separator-ward-text::before {
+    content: "•";
+    margin: 0 5px;
+    font-size: 14px;
+}
+
+.profile-avatar {
+    width: 150px !important ;
+    height: 150px !important;  
+    object-fit: cover !important;
+}
+
+.star-icon {
+    margin-right: 2px;
+}

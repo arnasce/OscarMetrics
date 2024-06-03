@@ -1,0 +1,26 @@
+.aria-valuenow {
+    margin-top: 50px;
+}
+
+.rc-slider-track {
+    position: absolute;
+    background-color: black;
+}
+
+.rc-slider-handle {
+    background-color: black;
+    border: black;
+}
+
+.rc-slider-handle-dragging.rc-slider-handle-dragging.rc-slider-handle-dragging {
+    border-color: black;
+    box-shadow: 0 0 0 10px rgb(174, 174, 174);
+}
+
+.rc-slider-handle:active {
+    border-color: black;
+    box-shadow: 0 0 5px black;
+    cursor: -webkit-grabbing;
+    cursor: grabbing;
+}
+

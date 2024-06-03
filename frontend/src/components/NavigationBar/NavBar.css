@@ -1,0 +1,12 @@
+#logo {
+  width: 220px;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-info p {
+  margin: 0;
+}

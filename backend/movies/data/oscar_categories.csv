@@ -1,0 +1,89 @@
+category_id,category_name
+1,Actor
+2,Actress
+3,Art Direction
+4,Cinematography
+5,Directing (Comedy Picture)
+6,Engineering Effects
+7,Writing (Original Story)
+8,Writing (Title Writing)
+9,Directing
+10,Outstanding Picture
+11,Writing
+12,Sound Recording
+13,Outstanding Production
+14,Short Subject (Cartoon)
+15,Short Subject (Comedy)
+16,Short Subject (Novelty)
+17,Assistant Director
+18,Writing (Adaptation)
+19,Film Editing
+20,Music (Scoring)
+21,Music (Song)
+22,Dance Direction
+23,Actor in a Supporting Role
+24,Actress in a Supporting Role
+25,Short Subject (Color)
+26,Short Subject (One-reel)
+27,Short Subject (Two-reel)
+28,Writing (Screenplay)
+29,Cinematography (Black-and-White)
+30,Music (Original Score)
+31,Special Effects
+32,Art Direction (Black-and-White)
+33,Art Direction (Color)
+34,Writing (Original Screenplay)
+35,Cinematography (Color)
+36,Documentary (Short Subject)
+37,Music (Music Score of a Dramatic Picture)
+38,Music (Scoring of a Musical Picture)
+39,Documentary
+40,Music (Music Score of a Dramatic or Comedy Picture)
+41,Writing (Original Motion Picture Story)
+42,Documentary (Feature)
+43,Writing (Motion Picture Story)
+44,Costume Design (Color)
+45,Best Motion Picture
+46,Writing (Story and Screenplay)
+47,Costume Design (Black-and-White)
+48,Foreign Language Film
+49,Writing (Screenplay--Original)
+50,Costume Design
+51,Short Subject (Live Action)
+52,Writing (Story and Screenplay--written directly for the screen)
+53,Sound
+54,Music (Scoring of Music--adaptation or treatment)
+55,Sound Effects
+56,Writing (Screenplay--based on material from another medium)
+57,Special Visual Effects
+58,Music (Original Music Score)
+59,Music (Song--Original for the Picture)
+60,Music (Original Song Score)
+61,Music (Original Dramatic Score)
+62,Short Subject (Animated)
+63,Writing (Story and Screenplay--based on factual material or material not previously published or produced)
+64,Short Film (Animated)
+65,Short Film (Live Action)
+66,Music (Original Song)
+67,Actor in a Leading Role
+68,Actress in a Leading Role
+69,Music (Original Song Score and Its Adaptation or Adaptation Score)
+70,Music (Adaptation Score)
+71,Visual Effects
+72,Writing (Screenplay Written Directly for the Screen)
+73,Short Film (Dramatic Live Action)
+74,Makeup
+75,Music (Original Song Score and Its Adaptation -or- Adaptation Score)
+76,Writing (Screenplay Based on Material from Another Medium)
+77,Music (Original Song Score or Adaptation Score)
+78,Sound Effects Editing
+79,Music (Original Musical or Comedy Score)
+80,Writing (Screenplay Based on Material Previously Produced or Published)
+81,Sound Editing
+82,Animated Feature Film
+83,Writing (Adapted Screenplay)
+84,Best Picture
+85,Makeup and Hairstyling
+86,International Feature Film
+87,Documentary Feature Film
+88,Documentary Short Film
